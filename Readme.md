@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Константин Ермихин](https://up.htmlacademy.ru/htmlcss-individual/1/user/2415207).
-* Наставник: [Вадим Рахманов](https://up.htmlacademy.ru)
+* Наставник: [Вадим Рахманов](https://htmlacademy.ru/profile/flander)
 
 ---
 
